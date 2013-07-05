@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+
+    <string name="umeng_socialize_network_break_alert">请连接网络后再尝试！</string>
+    <string name="umeng_socialize_comment">评论</string>
+    <string name="umeng_socialize_back">返回</string>
+    <string name="umeng_socialize_near_At">最近\@的好友</string>
+    <string name="umeng_socialize_friends">关注的好友</string>
+    <string name="umeng_socialize_send">发布</string>
+    <string name="umeng_socialize_tip_blacklist">对不起，因为违反了用户协议您已被禁言.</string>
+    <string name="umeng_socialize_tip_loginfailed">登录失败..</string>
+    <string name="umeng_socialize_msg_sec">秒前</string>
+    <string name="umeng_socialize_msg_min">分钟前</string>
+    <string name="umeng_socialize_msg_hor">小时前</string>
+
+    <dimen name="alphabet_size">12dip</dimen>
+    <dimen name="alphabet_height">15dip</dimen>
+
+</resources>
